@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { ContadorComponent } from './contandor.component';
+import { ContadorComponent } from './contador/contandor.component';
 
 @NgModule({
   declarations: [
